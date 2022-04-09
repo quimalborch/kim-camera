@@ -11,6 +11,7 @@ Any error or bug let me know to rectify as soon as possible!
 
 ![InitialPhoto](https://cdn.discordapp.com/attachments/469421041928634368/962382474653081651/KIMCAMERA.png)
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ![PlaceCamera](https://cdn.discordapp.com/attachments/469421041928634368/962384224147619910/GifPlaceCamera.gif)
 
 ![UseCamera](https://cdn.discordapp.com/attachments/469421041928634368/962387544845217852/GifUseCam.gif)
