@@ -8,7 +8,6 @@ ESX.RegisterServerCallback('kim-camera:checkinventoryitem', function(source,cb)
         xPlayer.removeInventoryItem(Config.ItemCamera, 1)
         cb(true)
     else
-        print("ookk")
         cb(false)
     end
 end)
