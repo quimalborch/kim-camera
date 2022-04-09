@@ -1,6 +1,4 @@
 ># **ESX | KIM CAMERA**
-https://cdn.discordapp.com/attachments/469421041928634368/962382474653081651/KIMCAMERA.png
-
 I have been looking around here, and I have not found any resources of cameras that can be put in real time. (Don't put them in a config.lua) That's why I've decided to make this script free for everyone.
 
 In the future, I will try to make it Standalone. But at the moment my knowledge does not leave ESX.
@@ -11,7 +9,7 @@ I am going to try to have updates of this resource, since a lot of potential can
 
 Any error or bug let me know to rectify as soon as possible!
 
-![PlaceCamera|517x241](https://cdn.discordapp.com/attachments/469421041928634368/962384224147619910/GifPlaceCamera.gif)
+![InitialPhoto](https://cdn.discordapp.com/attachments/469421041928634368/962382474653081651/KIMCAMERA.png)
 
 >## **Features**
 
@@ -26,8 +24,6 @@ Any error or bug let me know to rectify as soon as possible!
 * Being able to zoom and unzoom in the camera
 * Configurable Keybinds (Keybinds → FiveM → Change the controls of camera & open the menu)
 
-![UseCamera|517x241](https://cdn.discordapp.com/attachments/469421041928634368/962387544845217852/GifUseCam.gif)
-![Keybind1|517x241](https://cdn.discordapp.com/attachments/469421041928634368/962388742449020958/unknown.png)
 ># **Topic**
 
 |                       |          |
