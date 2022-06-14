@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3D9FNF)
+
 ># **ESX | KIM CAMERA**
 I have been looking around here, and I have not found any resources of cameras that can be put in real time. (Don't put them in a config.lua) That's why I've decided to make this script free for everyone.
 
